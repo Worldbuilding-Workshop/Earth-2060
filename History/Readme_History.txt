@@ -1,0 +1,1 @@
+Use this folder to describe the history of your world. History can range from short descriptions of long periods to descriptions of special events, but should be marked (and possibly ordered in folders) to improve readability.

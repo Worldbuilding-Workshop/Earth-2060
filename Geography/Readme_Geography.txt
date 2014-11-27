@@ -1,0 +1,1 @@
+Use this folder to describe the geography of your world. Geography can range from continents to local geographical specialities, but should be marked (and possibly ordered in folders) to improve readability.

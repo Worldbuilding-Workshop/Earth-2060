@@ -1,0 +1,1 @@
+Use this folder to describe the political structures of your world. Political structures can range from universe-wide goverments to small tribe-like groupings, according to your setting, but should be marked (and possibly ordered in folders) to improve readability.

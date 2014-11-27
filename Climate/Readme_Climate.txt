@@ -1,0 +1,1 @@
+Use this folder to describe the climate of your world. Climate can range from worldwide air currents to localized weather phenomens, but should be marked (and possibly ordered in folders) to improve readability.
