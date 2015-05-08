@@ -6,4 +6,6 @@ Earth-2060: a future, high-technology, no magic, sci-fi setting.
 J-F-B-M
 
 ### Special Conventions
-None
+
+- In Markdown, use `##` for titles as this allows permalinking.
+- Always include an image description in the Markdown for images: `![image description](source url)`
