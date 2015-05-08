@@ -1,4 +1,9 @@
 Earth-2060
 ==========
+Earth-2060: a future, high-technology, no magic, sci-fi setting.
 
-First project of the Collaborative Worldbuilding Team.
+### World Manager
+J-F-B-M
+
+### Special Conventions
+None
